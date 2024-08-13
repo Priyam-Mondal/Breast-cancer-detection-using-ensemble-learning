@@ -1,2 +1,2 @@
 # Breast-cancer-detection-using-ensemble-learning
-Employed ensembled learning with DenseNet121, InceptionV3, and WRN50-2 models, achieving an 88% accuracy rate, surpassing individual model accuracies. 
+This project aims to develop a robust breast cancer detection system using ensemble learning techniques. The system combines three state-of-the-art deep learning models—InceptionV3, ResNet50V2, and DenseNet121—to achieve high accuracy in detecting breast cancer from mammography images. The MIAS (Mammographic Image Analysis Society) dataset is used to train and evaluate the models.
